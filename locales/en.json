@@ -1,0 +1,105 @@
+{
+  "keybind": {
+    "editor": "HUD: customize layout",
+    "seatbelt": "HUD: toggle seatbelt",
+    "cruise": "HUD: toggle cruise control"
+  },
+  "page": {
+    "status": {
+      "health": "Health",
+      "armor": "Armor",
+      "stamina": "Stamina",
+      "oxygen": "Oxygen"
+    },
+    "identity": {
+      "id": "ID",
+      "onDuty": "On duty",
+      "offDuty": "Off duty"
+    },
+    "voice": {
+      "radio": "Radio"
+    },
+    "widget": {
+      "status": "Status",
+      "money": "Money",
+      "identity": "Identity",
+      "voice": "Voice",
+      "speedometer": "Speedometer",
+      "compass": "Compass",
+      "clock": "Clock",
+      "weapon": "Weapon"
+    },
+    "style": {
+      "rings": "Rings",
+      "bars": "Bars",
+      "pills": "Pills",
+      "minimal": "Minimal",
+      "card": "Card",
+      "plain": "Plain",
+      "pill": "Pill",
+      "dots": "Dots",
+      "arc": "Arc",
+      "digital": "Digital",
+      "bar": "Bar",
+      "tape": "Tape",
+      "heading": "Heading"
+    },
+    "preset": {
+      "neon": "Neon",
+      "minimal": "Minimal",
+      "classic": "Classic",
+      "sport": "Sport"
+    },
+    "minimap": {
+      "always": "Always",
+      "vehicle": "In vehicle",
+      "never": "Never"
+    },
+    "editor": {
+      "title": "Customize your HUD",
+      "hint": "Drag widgets to move them. Arrows nudge.",
+      "side": "Move panel",
+      "tab": {
+        "layout": "Layout",
+        "look": "Look",
+        "statuses": "Statuses",
+        "options": "Options"
+      },
+      "widgets": "Widgets",
+      "visible": "Visible",
+      "style": "Style",
+      "size": "Size",
+      "opacity": "Opacity",
+      "resetWidget": "Reset this widget",
+      "preset": "Preset",
+      "accent": "Accent color",
+      "customColor": "Custom color",
+      "scale": "HUD size",
+      "statuses": "Statuses",
+      "display": "Display",
+      "speedUnit": "Speed unit",
+      "minimap": "Minimap",
+      "clock24": "24-hour clock",
+      "cinematic": "Cinematic mode",
+      "cinematicHint": "Letterbox bars, only the essentials",
+      "smartHide": "Smart hide",
+      "smartHideHint": "Full bars hide until they change",
+      "effects": "Effects",
+      "effectsHint": "Low health vignette and warning pulses",
+      "sounds": "Sounds",
+      "snap": "Snap to grid",
+      "share": "Share layout",
+      "codePlaceholder": "Paste a code here, or export yours",
+      "export": "Export",
+      "import": "Import",
+      "exported": "Code ready. Select it and copy it.",
+      "imported": "Layout imported. Save to keep it.",
+      "badCode": "That is not a HUD code.",
+      "reset": "Reset everything",
+      "wasReset": "Back to the server's defaults. Save to keep it.",
+      "cancel": "Cancel",
+      "save": "Save",
+      "saveFailed": "Could not save. Try again."
+    }
+  }
+}

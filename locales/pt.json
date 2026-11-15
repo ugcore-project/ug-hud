@@ -1,0 +1,105 @@
+{
+  "keybind": {
+    "editor": "HUD: personalizar layout",
+    "seatbelt": "HUD: cinto de segurança",
+    "cruise": "HUD: controlo de velocidade"
+  },
+  "page": {
+    "status": {
+      "health": "Vida",
+      "armor": "Colete",
+      "stamina": "Energia",
+      "oxygen": "Oxigénio"
+    },
+    "identity": {
+      "id": "ID",
+      "onDuty": "Em serviço",
+      "offDuty": "Fora de serviço"
+    },
+    "voice": {
+      "radio": "Rádio"
+    },
+    "widget": {
+      "status": "Estado",
+      "money": "Dinheiro",
+      "identity": "Identidade",
+      "voice": "Voz",
+      "speedometer": "Velocímetro",
+      "compass": "Bússola",
+      "clock": "Relógio",
+      "weapon": "Arma"
+    },
+    "style": {
+      "rings": "Anéis",
+      "bars": "Barras",
+      "pills": "Cápsulas",
+      "minimal": "Mínimo",
+      "card": "Cartão",
+      "plain": "Simples",
+      "pill": "Cápsula",
+      "dots": "Pontos",
+      "arc": "Arco",
+      "digital": "Digital",
+      "bar": "Barra",
+      "tape": "Fita",
+      "heading": "Direção"
+    },
+    "preset": {
+      "neon": "Neon",
+      "minimal": "Mínimo",
+      "classic": "Clássico",
+      "sport": "Desportivo"
+    },
+    "minimap": {
+      "always": "Sempre",
+      "vehicle": "No veículo",
+      "never": "Nunca"
+    },
+    "editor": {
+      "title": "Personaliza o teu HUD",
+      "hint": "Arrasta os widgets para os mover. As setas fazem ajustes finos.",
+      "side": "Mudar painel de lado",
+      "tab": {
+        "layout": "Layout",
+        "look": "Aspeto",
+        "statuses": "Estados",
+        "options": "Opções"
+      },
+      "widgets": "Widgets",
+      "visible": "Visível",
+      "style": "Estilo",
+      "size": "Tamanho",
+      "opacity": "Opacidade",
+      "resetWidget": "Repor este widget",
+      "preset": "Predefinição",
+      "accent": "Cor de destaque",
+      "customColor": "Cor personalizada",
+      "scale": "Tamanho do HUD",
+      "statuses": "Estados",
+      "display": "Ecrã",
+      "speedUnit": "Unidade de velocidade",
+      "minimap": "Minimapa",
+      "clock24": "Relógio de 24 horas",
+      "cinematic": "Modo cinemático",
+      "cinematicHint": "Barras de cinema, só o essencial",
+      "smartHide": "Esconder inteligente",
+      "smartHideHint": "Barras cheias escondem-se até mudarem",
+      "effects": "Efeitos",
+      "effectsHint": "Vinheta de vida baixa e avisos a pulsar",
+      "sounds": "Sons",
+      "snap": "Alinhar à grelha",
+      "share": "Partilhar layout",
+      "codePlaceholder": "Cola aqui um código, ou exporta o teu",
+      "export": "Exportar",
+      "import": "Importar",
+      "exported": "Código pronto. Seleciona-o e copia-o.",
+      "imported": "Layout importado. Guarda para o manter.",
+      "badCode": "Isso não é um código de HUD.",
+      "reset": "Repor tudo",
+      "wasReset": "De volta às predefinições do servidor. Guarda para manter.",
+      "cancel": "Cancelar",
+      "save": "Guardar",
+      "saveFailed": "Não foi possível guardar. Tenta outra vez."
+    }
+  }
+}
